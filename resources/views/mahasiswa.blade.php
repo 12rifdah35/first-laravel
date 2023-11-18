@@ -36,7 +36,57 @@
       </nav>
 
       <div class="container">
-        <li>mahasiswa</li>
+        <h1>mahasiswa</h1>
+
+        <table class="table table-hover table-danger table-bordered" >
+          <thead>
+            <tr>
+              <th>NPM</th>
+              <th>Nama Mahasiswa</th>
+              <th>Jenis Kelamin</th>
+              <th>Tanggal Lahir</th>
+              <th>Alamat</th>
+            </tr>
+            
+          </thead>
+          <tbody>
+            <tr>
+              <td>123456789</td>
+              <td>Jeno</td>
+              <td>laki-laki</td>
+              <td>South Korea</td>
+              <td>4 November 2000</td>
+            </tr>
+            <tr>
+              <td>123456789</td>
+              <td>Jay</td>
+              <td>laki-laki</td>
+              <td>South Korea</td>
+              <td>5 November 2000</td>
+            </tr>
+            <tr>
+              <td>123456789</td>
+              <td>jaehyun</td>
+              <td>laki-laki</td>
+              <td>South Korea</td>
+              <td>6 November 2000</td>
+            </tr>
+            <tr>
+              <td>123456789</td>
+              <td>jaemin</td>
+              <td>laki-laki</td>
+              <td>South Korea</td>
+              <td>7 November 2000</td>
+            </tr>
+            <tr>
+              <td>123456789</td>
+              <td>jisung</td>
+              <td>laki-laki</td>
+              <td>South Korea</td>
+              <td>4 November 2000</td>
+            </tr>
+          </tbody>
+        </table>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
