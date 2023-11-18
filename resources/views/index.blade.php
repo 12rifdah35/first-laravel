@@ -35,7 +35,19 @@
         </div>
       </nav>
     <div class="container">
-        <li>home</li>
+      <h1>TWICE MINI ALBUM</h1>
+      <hr>
+
+      <div class="row">
+        <div class="col-6">
+          <h4>Ready To Be</h4>
+          <p style="text-align:justify">TWICE are gearing up to release a brand-new mini album, and they shared the details about its release on Thursday Feb. 2. The K-pop girl group shared the news via their social media accounts, which revealed the forthcoming album is titled Ready to Be and will arrive Friday, March 10, at midnight ET/2 p.m. KT.Along with the album’s release date, the girl group shared a preview of what the album preorder will look like. There will be three covers for Ready to Be, three photo books and three CD types in black, pink and white, or tan and brown colorways. Each version of the record will come with a folded poster, a postcard, message card and photocard. Fans will also receive a second poster and a photocard set that correlates with the version of the album that they order.</p>
+        </div>
+        <div class="col-6">
+          <h4>Cooming Soon</h4>
+          <p style="text-align: justify">Ready to Be marks the 12th mini album TWICE has released,Pre-orders for Ready to Be will become available starting on Friday, Feb. 3. the announcement of the project follows the release of the girl group’s second English single, “Moonlight Sunrise.” TWICE’s last mini-album, Between 1&2, was released in August; the set, which featured lead single “Talk That Talk,” spent a total of eight weeks on the Billboard 200 and peaked at No. 3 on the all-genre chart.</p>
+        </div>
+      </div>
     </div>
     
         
