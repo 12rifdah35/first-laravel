@@ -36,7 +36,7 @@
       </nav>
 
     <div class="container">
-        <h1>Ini adalah halaman baru mahasiswa</h1>
+        <h1>Ini adalah halaman Tambah mahasiswa</h1>
 
         <div class="row">
           <div class="col-sm-12">
